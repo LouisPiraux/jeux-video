@@ -1,0 +1,47 @@
+.flexible{
+    display: flex;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul{
+    background-color: black;
+    color: white;
+    justify-content: center
+}
+li{
+    list-style-type: none;
+    
+}
+ul a{
+    padding: 20px 20px;
+}
+div{
+    border: 2px solid;
+    margin: 15px;
+}
+th{
+    border:2px solid;
+    background-color: black;
+    color: white;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 2px solid;
+}
+img{
+    margin: auto;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+footer div{
+    text-align: center;
+}
